@@ -1,14 +1,7 @@
 ### Nice to meet you ^^ I'm Thy (Hana) 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/OrieHana?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/OrieHana)
-
 ## I'm University Student ^^
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn about Open Source , Linux v.v.v
-- ⚡ Fun fact: I love to contact with another people in the world .
-			  I love photo , listen  to music . Podcast ^^
 
 ### Spotify Playing 🎧
 
