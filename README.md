@@ -1,6 +1,6 @@
 ### Nice to meet you ^^ I'm Thy (Hana) 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/PhmQuangLinh20?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/PhmQuangLinh20)
+[![Twitter Follow](https://img.shields.io/twitter/follow/OrieHana?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/OrieHana)
 
 ## I'm University Student ^^
 
