@@ -1,7 +1,11 @@
 ### Nice to meet you ^^ I'm Thy (Hana) 👋
 
-[![Facebook Follow](https://img.shields.io/facebook/follow/OrieSocuteee?color=1DA1F2&logo=facebook&style=for-the-badge)](https://www.facebook.com/OrieSocuteee/)
-## I'm University Student ^^
+## I'm University Student ^^ ❤️
+- 🥰 I wanna try everything I wanna try even though I could fail.
+- 💎 Goals: To be a Great Tester.
+- 🌸 My hobbies: studying, listening to music and traveling.
+
+🥺❤️☘️🌸🌈🍒📷💎🎀
 
 ### Connect with me:
 
