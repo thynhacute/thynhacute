@@ -15,8 +15,9 @@
 <a href="https://www.instagram.com/__almira.hana/"><img align="left" alt="__almira.hana| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.facebook.com/OrieSocuteee/"><img align="left" alt="OrieSocuteee| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 
-<br />
+<br/>
 
 ---
 ![](https://komarev.com/ghpvc/?username=thynhacute&color=ff69b4)
+<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thynhacute&theme=monokai)
