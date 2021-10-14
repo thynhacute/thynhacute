@@ -18,3 +18,8 @@
 <br />
 
 ---
+![](https://komarev.com/ghpvc/?username=thynhacute)
+![](https://komarev.com/ghpvc/?username=thynhacute&color=green)
+![](https://komarev.com/ghpvc/?username=thynhacute&color=dc143c)
+![](https://komarev.com/ghpvc/?username=thynhacute&style=flat-square)
+![](https://komarev.com/ghpvc/?username=thynhacute&label=PROFILE+VIEWS)
