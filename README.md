@@ -21,3 +21,5 @@
 ![](https://komarev.com/ghpvc/?username=thynhacute&color=ff69b4)
 <br/> <br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thynhacute&theme=monokai)
+<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thynhacute)](https://github.com/thynhacute/github-readme-stats)
