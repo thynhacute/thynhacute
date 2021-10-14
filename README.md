@@ -3,10 +3,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/OrieHana?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/OrieHana)
 ## I'm University Student ^^
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 ### Connect with me:
 
 
