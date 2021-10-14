@@ -19,4 +19,4 @@
 
 ---
 ![](https://komarev.com/ghpvc/?username=thynhacute&color=ff69b4)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thynhacute&theme=monokai)
