@@ -28,4 +28,7 @@
 <br/> <br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thynhacute&theme=monokai)
 <br/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/VhRU9RvKZWKujYXhlJ/giphy.gif" width="250"/>
+</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thynhacute&show_icons=true&theme=radical)
