@@ -1,4 +1,7 @@
 ### Nice to meet you ^^ I'm Thy (Hana) 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="100"/>
+</div>
 
 ## I'm University Student ^^ ❤️
 - 🥰 I wanna try everything I wanna try even though I could fail.
