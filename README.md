@@ -30,6 +30,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thynhacute&show_icons=true&theme=radical)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/td3fwl4I8261W/giphy.gif" width="250"/>
-</div>
