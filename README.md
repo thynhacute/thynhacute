@@ -7,12 +7,6 @@
 
 🥺❤️☘️🌸🌈🍒📷💎🎀
 
-
-## Spotify playing ^^ ❤️
-[<img src="http://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]
-(https://open.spotify.com/user/1d6jla5x5bzx1abr8z083rbiz)
-
-
 ### Connect with me:
 
 
