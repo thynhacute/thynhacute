@@ -10,7 +10,7 @@
 
 🥺❤️☘️🌸🌈🍒📷💎🎀
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VhRU9RvKZWKujYXhlJ/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/VhRU9RvKZWKujYXhlJ/giphy.gif" width="250"/>
 </div>
 
 ### Connect with me:
