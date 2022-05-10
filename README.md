@@ -1,6 +1,6 @@
 ### Nice to meet you ^^ I'm Thy (Hana) 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="200"/>
 </div>
 
 ## I'm University Student ^^ ❤️
@@ -10,7 +10,7 @@
 
 🥺❤️☘️🌸🌈🍒📷💎🎀
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VhRU9RvKZWKujYXhlJ/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/VhRU9RvKZWKujYXhlJ/giphy.gif" width="200"/>
 </div>
 
 ### Connect with me:
