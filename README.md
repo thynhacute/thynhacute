@@ -12,9 +12,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/VhRU9RvKZWKujYXhlJ/giphy.gif" width="250"/>
 </div>
-
 ### Connect with me:
-
 
 <a href="https://twitter.com/OrieHana"><img align="left" alt="OrieHana| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/thyy-nh%C3%A3-646867216//"><img align="left" alt="thyy-nh%C3%A3-646867216| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
