@@ -9,6 +9,9 @@
 - 🌸 My hobbies: studying, listening to music and traveling.
 
 🥺❤️☘️🌸🌈🍒📷💎🎀
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/puYCXadOGhphDrewiv/giphy-downsized-large.gif" width="100"/>
+</div>
 
 ### Connect with me:
 
