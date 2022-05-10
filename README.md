@@ -7,6 +7,8 @@
 
 🥺❤️☘️🌸🌈🍒📷💎🎀
 
+
+[![Spotify](https://1d6jla5x5bzx1abr8z083rbiz.vercel.app/api/spotify)](https://open.spotify.com/user/1d6jla5x5bzx1abr8z083rbiz)
 ### Connect with me:
 
 
