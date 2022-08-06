@@ -7,7 +7,7 @@
 
 ## I'm University Student ^^ ❤️
 - 🥰 I wanna try everything I wanna try even though I could fail.
-- 💎 Goals: To be a Great Tester.
+- 💎 Goals: To be a Great Business Analyst.
 - 🌸 My hobbies: studying, listening to music and traveling.
 
 🥺❤️☘️🌸🌈🍒📷💎🎀
