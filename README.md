@@ -45,17 +45,11 @@
 
 <div align="center">
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thynhacute&show_icons=true&theme=radical) | <span style="color:pink">🌸🌸Thank you so much for coming to my house🌸🌸</span> |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thynhacute&show_icons=true&theme=radical) | <font color="pink">🌸🌸Thank you so much for coming to my house🌸🌸</font> |
 | -------- | -------- |
   
 
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=thynhacute&color=ff69b4)
-<br/> <br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thynhacute&theme=monokai)
-<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thynhacute&show_icons=true&theme=radical)
 
