@@ -45,7 +45,7 @@
 
 <div align="center">
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thynhacute&show_icons=true&theme=radical) | 🌸🌸Thank you so much for coming to my house🌸🌸 |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thynhacute&show_icons=true&theme=radical) | <span style="color:pink">🌸🌸Thank you so much for coming to my house🌸🌸</span> |
 | -------- | -------- |
   
 
