@@ -1,3 +1,8 @@
+| 🐇 Welcome to NaaTy home 🐇 | <div id="header" align="center"><img src="https://i.pinimg.com/564x/4f/53/91/4f53911640727ddc433141514cac521d.jpg"/></div> |
+| -------- | -------- |
+| <div id="header" align="center"><img src="https://media1.giphy.com/avatars/ariru/aMeIqTaYn87j.gif"/></div> | ### Nice to meet you ^^ I'm Thy (Hana) 🦢 |
+| Row 2, Column 1 | Row 2, Column 2 |
+
 ### Nice to meet you ^^ I'm Thy (Hana) 👋
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/77/55/12/775512d222eb9562371cf24ca66ff790.gif"/>
