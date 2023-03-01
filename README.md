@@ -1,6 +1,6 @@
 <div align="center">
 
-| Header 1 | Header 2 |
+| 🐇 Welcome to NaaTy home 🐇 | Header 2 |
 | -------- | -------- |
 | Cell 1   | Cell 2   |
 | Cell 3   | Cell 4   |
@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-| 🐇 Welcome to NaaTy home 🐇 | <div align="center"><img src="https://media1.giphy.com/avatars/ariru/aMeIqTaYn87j.gif" width="400px"/></div> |</center>
+| 🐇 Welcome to NaaTy home 🐇 | <div align="center"><img src="https://media1.giphy.com/avatars/ariru/aMeIqTaYn87j.gif" width="400px"/></div> |
 | --- | --- |
 </div>
 
