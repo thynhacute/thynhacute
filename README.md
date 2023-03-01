@@ -1,3 +1,5 @@
+|  |  |
+| --- | --- |
 | 🐇 Welcome to NaaTy home 🐇 | <div id="header" align="center"><img src="https://media1.giphy.com/avatars/ariru/aMeIqTaYn87j.gif" width="350px"/></div> |
 
 ### Nice to meet you ^^ I'm Thy (Hana) 🦢
