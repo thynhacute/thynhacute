@@ -22,7 +22,7 @@
   <img src="https://media0.giphy.com/media/9HIwpKaerZ3z6RTTyW/giphy.gif"/></div> | ## I'm University Student ^^ ❤️<br>- 🥰 I wanna try everything I wanna try even though I could fail.<br>- 🌸 My hobbies: studying, listening to music and traveling.<br>- 🎀 I am a Business Analyst and Master of Ceremonies of UFIN Technology Joint Stock Company.<br><br>🥺❤️☘️🌸🌈🍒📷💎🎀 |
 
 
-### Connect with me:
+### Connect with Hana Bae:
 
 <a href="https://twitter.com/OrieHana"><img align="left" alt="OrieHana| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/thyy-nh%C3%A3-646867216//"><img align="left" alt="thyy-nh%C3%A3-646867216| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
@@ -34,6 +34,21 @@
 <br/>
 
 ---
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=thynhacute&color=ff69b4)
+<br/> <br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thynhacute&theme=monokai)
+<br/>
+
+</div>
+
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thynhacute&show_icons=true&theme=radical)
+
+</div>
+
 ![](https://komarev.com/ghpvc/?username=thynhacute&color=ff69b4)
 <br/> <br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thynhacute&theme=monokai)
