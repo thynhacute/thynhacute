@@ -1,5 +1,7 @@
-<center>| 🐇 Welcome to NaaTy home 🐇 | <div align="center"><img src="https://media1.giphy.com/avatars/ariru/aMeIqTaYn87j.gif" width="400px"/></div> |</center>
+<div align="center">
+| 🐇 Welcome to NaaTy home 🐇 | <div align="center"><img src="https://media1.giphy.com/avatars/ariru/aMeIqTaYn87j.gif" width="400px"/></div> |</center>
 | --- | --- |
+</div>
 
 
 ### Nice to meet you ^^ I'm Thy (Hana) 🦢
