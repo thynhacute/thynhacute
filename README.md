@@ -1,6 +1,6 @@
 ### Nice to meet you ^^ I'm Thy (Hana) 👋
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif](https://i.pinimg.com/originals/77/55/12/775512d222eb9562371cf24ca66ff790.gif)" width="200"/>
+  <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="200"/>
 </div>
 
 
