@@ -3,6 +3,7 @@
   <img src="https://i.pinimg.com/originals/77/55/12/775512d222eb9562371cf24ca66ff790.gif"/>
 </div>
 
+| meomeo | ❤️❤️❤️ |
 | --- | --- |
 | <div align="center">
   <img src="https://media0.giphy.com/media/9HIwpKaerZ3z6RTTyW/giphy.gif"/></div> | ## I'm University Student ^^ ❤️<br>- 🥰 I wanna try everything I wanna try even though I could fail.<br>- 🌸 My hobbies: studying, listening to music and traveling.<br>- 🎀 I am a Business Analyst and Master of Ceremonies of UFIN Technology Joint Stock Company.<br><br>🥺❤️☘️🌸🌈🍒📷💎🎀 |
