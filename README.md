@@ -1,4 +1,4 @@
-| 🐇 Welcome to NaaTy home 🐇 | <div id="header" align="center"><img src="https://media1.giphy.com/avatars/ariru/aMeIqTaYn87j.gif" width="500px"/></div> |
+| 🐇 Welcome to NaaTy home 🐇 width="500px"| <div id="header" align="center"><img src="https://media1.giphy.com/avatars/ariru/aMeIqTaYn87j.gif"/></div> |
 | --- | --- |
 
 
