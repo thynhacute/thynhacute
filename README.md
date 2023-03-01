@@ -34,10 +34,10 @@
 <br/>
 
 ---
-<div align="center">
-
 ![](https://komarev.com/ghpvc/?username=thynhacute&color=ff69b4)
 <br/> <br/>
+<div align="center">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thynhacute&theme=monokai)
 <br/>
 
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thynhacute&show_icons=true&theme=radical) | <font color="pink">🌸🌸Thank you so much for coming to my house🌸🌸</font> |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thynhacute&show_icons=true&theme=radical) | 🌸🌸Thank you so much for coming to my house🌸🌸 |
 | -------- | -------- |
   
 
