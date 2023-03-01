@@ -3,6 +3,10 @@
   <img src="https://i.pinimg.com/originals/77/55/12/775512d222eb9562371cf24ca66ff790.gif"/>
 </div>
 
+| Column 1 | Column 2 |
+| --- | --- |
+| <div align="center"><img src="https://media.giphy.com/media/VhRU9RvKZWKujYXhlJ/giphy.gif" width="250"/></div> | ## I'm University Student ^^ ❤️<br>- 🥰 I wanna try everything I wanna try even though I could fail.<br>- 🌸 My hobbies: studying, listening to music and traveling.<br>- 🎀 I am a Business Analyst and Master of Ceremonies of UFIN Technology Joint Stock Company.<br><br>🥺❤️☘️🌸🌈🍒📷💎🎀 |
+
 
 
 ## I'm University Student ^^ ❤️
