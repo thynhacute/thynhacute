@@ -1,7 +1,6 @@
-| 🐇 Welcome to NaaTy home 🐇 | <div id="header" align="center"><img src="https://i.pinimg.com/564x/4f/53/91/4f53911640727ddc433141514cac521d.jpg" width="350px"/></div> |
-| -------- | -------- |
-| <div id="header" align="center"><img src="https://media1.giphy.com/avatars/ariru/aMeIqTaYn87j.gif" width="350px"/></div> | 
-### Nice to meet you ^^ I'm Thy (Hana) 🦢 |
+| 🐇 Welcome to NaaTy home 🐇 | <div id="header" align="center"><img src="https://media1.giphy.com/avatars/ariru/aMeIqTaYn87j.gif" width="350px"/></div> |
+
+### Nice to meet you ^^ I'm Thy (Hana) 🦢
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/77/55/12/775512d222eb9562371cf24ca66ff790.gif"/>
