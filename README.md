@@ -5,9 +5,12 @@
 
 </div>
 
+<div align="center">
 
+  ### Nice to meet you ^^ I'm Thy (Hana) 🦢
 
-### Nice to meet you ^^ I'm Thy (Hana) 🦢
+</div>
+
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/77/55/12/775512d222eb9562371cf24ca66ff790.gif"/>
