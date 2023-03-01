@@ -40,8 +40,8 @@
 
 <div align="center">
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thynhacute&theme=monokai)<br/> | 🌸🌸🌸🌸 |
-| -------- | -------- |
+| 🌸🌸 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thynhacute&theme=monokai)<br/> | 🌸🌸 |
+| -------- | -------- | -------- |
   
 </div>
 
