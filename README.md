@@ -17,7 +17,6 @@
 </div>
 
 | meomeo | ❤️❤️❤️ |
-| --- | --- |
 | <div align="center">
   <img src="https://media0.giphy.com/media/9HIwpKaerZ3z6RTTyW/giphy.gif"/></div> | ## I'm University Student ^^ ❤️<br>- 🥰 I wanna try everything I wanna try even though I could fail.<br>- 🌸 My hobbies: studying, listening to music and traveling.<br>- 🎀 I am a Business Analyst and Master of Ceremonies of UFIN Technology Joint Stock Company.<br><br>🥺❤️☘️🌸🌈🍒📷💎🎀 |
 
@@ -37,9 +36,14 @@
 ![](https://komarev.com/ghpvc/?username=thynhacute&color=ff69b4)
 <br/> <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thynhacute&theme=monokai)
-<br/>
 
+
+<div align="center">
+
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thynhacute&theme=monokai)<br/> | 🌸🌸🌸🌸 |
+| -------- | -------- |
+  
+</div>
 
 <div align="center">
 
