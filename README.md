@@ -49,7 +49,7 @@
 <div align="center">
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thynhacute&show_icons=true&theme=radical) | 🌸Thank you so much for coming to my house🌸 |
-|  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api?username=thynhacute&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) | -------- |
+|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thynhacute&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) | -------- |
 | -------- | -------- |
   
 
