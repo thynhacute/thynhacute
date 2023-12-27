@@ -37,7 +37,14 @@
 ![](https://komarev.com/ghpvc/?username=thynhacute&color=ff69b4)
 <br/> <br/>
 
+<div align="center">
 
+    <!-- Your existing content -->
+
+    <!-- Spotify Embed for the provided track -->
+    <iframe src="https://open.spotify.com/embed/track/0OrwGH9aeguhopTVubv0VZ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+</div>
 
 <div align="center">
 
