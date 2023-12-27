@@ -19,7 +19,7 @@
 | meomeo | ❤️❤️❤️ |
 | --- | --- |
 | <div align="center">
-  <img src="https://media0.giphy.com/media/9HIwpKaerZ3z6RTTyW/giphy.gif"/></div> | ## I'm University Student ^^ ❤️<br>- 🥰 I wanna try everything I wanna try even though I could fail.<br>- 🌸 My hobbies: studying, listening to music and traveling.<br>- 🎀 I am a Business Analyst and Master of Ceremonies of UFIN Technology Joint Stock Company.<br><br>🥺❤️☘️🌸🌈🍒📷💎🎀 |
+  <img src="https://media0.giphy.com/media/9HIwpKaerZ3z6RTTyW/giphy.gif"/></div> | ## I'm FPT University Student ^^ ❤️<br>- 🥰 I wanna try everything I wanna try even though I could fail.<br>- 🌸 My hobbies: studying, listening to music and traveling.<br> <br>🥺❤️☘️🌸🌈🍒📷💎🎀 |
 
 
 ### Connect with Hana Bae:
